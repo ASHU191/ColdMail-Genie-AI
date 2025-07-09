@@ -27,20 +27,12 @@ A modern, production-ready AI agent that generates personalized cold DMs, emails
 
 ### 1. Clone and Install
 ```bash
-git clone <your-repo-url>
-cd coldmail-genie
+git clone https://github.com/ASHU191/ColdMail-Genie-AI
+cd ColdMail-Genie-AI
 npm install
 ```
 
-### 2. Environment Variables (Optional)
-Create a `.env.local` file for OpenAI integration:
-```env
-NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key_here
-```
-
-**Note**: The app works without OpenAI API key using smart mock generation. Add your key to enable real AI generation.
-
-### 3. Run Development Server
+### 2. Run Development Server
 ```bash
 npm run dev
 ```
@@ -136,10 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-Having issues? Check out:
-- [Issues Page](https://github.com/your-username/coldmail-genie/issues)
-- Email: support@coldmailgenie.com
-- Twitter: [@coldmailgenie](https://twitter.com/coldmailgenie)
+- Email: arsalanaftab191@gmail.com
 
 ---
 
