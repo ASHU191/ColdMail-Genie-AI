@@ -19,7 +19,7 @@ A modern, production-ready AI agent that generates personalized cold DMs, emails
 - **Styling**: Tailwind CSS
 - **UI Components**: Shadcn/ui
 - **Build Tool**: Vite
-- **AI Integration**: OpenAI API (GPT-4) with fallback mock generation
+- **AI Integration**: Gemini AI API with fallback mock generation
 - **Storage**: Browser localStorage
 - **Icons**: Lucide React
 
@@ -143,6 +143,6 @@ Having issues? Check out:
 
 ---
 
-**Made with ❤️ for the freelance community**
+**Made with ❤️ From Arsalan for the freelance community**
 
 Transform your cold outreach game with AI-powered personalization! 🚀
