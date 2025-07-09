@@ -1,6 +1,6 @@
 
 # 🧞 ColdMail Genie - AI-Powered Outreach Messages 
-
+ 
 A modern, production-ready AI agent that generates personalized cold DMs, emails, and Upwork proposals for freelancers and digital agencies.
 
 ## ✨ Features
