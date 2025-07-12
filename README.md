@@ -29,7 +29,7 @@ A modern, production-ready AI agent that generates personalized cold DMs, emails
 ```bash
 git clone https://github.com/ASHU191/ColdMail-Genie-AI
 cd ColdMail-Genie-AI
-npm install
+npm install 
 ```
 
 ### 2. Run Development Server
