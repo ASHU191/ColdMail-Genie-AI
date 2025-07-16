@@ -5,7 +5,7 @@ A modern, production-ready AI agent that generates personalized cold DMs, emails
 
 ## ✨ Features
 
-- **AI-Powered Message Generation**: Create 3 unique, personalized outreach messages in seconds
+- **AI-Powered Message Generation**: Create 3 unique, personalized outreach messages in seconds                
 - **Platform-Specific Optimization**: Tailored tone and format for LinkedIn, Email, Upwork, and Instagram
 - **Smart Personalization**: Include client names and niche-specific messaging 
 - **Message History**: Save, search, and manage all your generated messages 
