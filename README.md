@@ -14,7 +14,7 @@ A modern, production-ready AI agent that generates personalized cold DMs, emails
 - **Copy & Export**: Easy copy-to-clipboard and message management
 
 ## 🚀 Tech Stack
-
+        
 - **Frontend**: React with TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: Shadcn/ui
