@@ -3,7 +3,7 @@
  
 A modern, production-ready AI agent that generates personalized cold DMs, emails, and Upwork proposals for freelancers and digital agencies.
 
-## ✨ Features          
+## ✨ Features              
             
 - **AI-Powered Message Generation**: Create 3 unique, personalized outreach messages in seconds                
 - **Platform-Specific Optimization**: Tailored tone and format for LinkedIn, Email, Upwork, and Instagram
