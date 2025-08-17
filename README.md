@@ -13,7 +13,7 @@ A modern, production-ready AI agent that generates personalized cold DMs, emails
 - **Local Storage**: No backend required - everything saves locally
 - **Copy & Export**: Easy copy-to-clipboard and message management
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack      
         
 - **Frontend**: React with TypeScript
 - **Styling**: Tailwind CSS
